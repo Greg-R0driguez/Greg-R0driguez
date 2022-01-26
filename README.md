@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
 <h3 align="center">A Technology Enthusiast</h3>
 
-💻 I’m currently working on a **Computer Information Systems Associate's Degree**.
+💻 I’m a software developer that provides value to businesses by using current technologies to build websites.
 
-🌱 I also self-educated with online resources such as Scrimba and Codecademy.
+👇 Check out my portfolio!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
