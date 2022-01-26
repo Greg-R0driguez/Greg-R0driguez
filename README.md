@@ -3,7 +3,9 @@
 
 💻 I’m a software developer that provides value to businesses by using current technologies to build websites.
 
-👇 Check out my portfolio!
+👨‍💻 Check out my portfolio at [www.#.com](www.#.com)   
+
+📫 How to reach me **greg.rodriguez@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
