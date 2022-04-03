@@ -3,7 +3,7 @@
 
 💻 I’m a software developer that provides value to businesses by using current technologies to build websites.
 
-👨‍💻 Check out my [portfolio](https://greg-r0driguez.github.io/portfolio/)
+👨‍💻 Check out my [portfolio](https://greg-r0driguez.github.io/portfolio_v2/)
 
 📫 How to reach me **greg.rodriguez@outlook.com**
 
