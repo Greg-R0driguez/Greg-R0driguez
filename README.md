@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
 <h3 align="center">A Technology Enthusiast</h3>
 
-💻 I’m a software developer that provides value by building websites with current technologies.
+💻&nbsp;&nbsp; I’m a Full Stack Developer that provides value by building web applications with current technologies.
 
-👨‍💻 Check out my [portfolio](https://gregrodriguezjr.github.io/portfolio_v3/)
+👨‍💻&nbsp;&nbsp; Check out my [Portfolio](https://gregrodriguezjr.github.io/portfolio_v3/)
 
-📫 How to reach me **greg.rodriguez@outlook.com**
+📫&nbsp;&nbsp; How to reach me **greg.rodriguez@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,5 +13,9 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
