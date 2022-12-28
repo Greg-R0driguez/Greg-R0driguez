@@ -3,7 +3,7 @@
 
 💻&nbsp;&nbsp; I’m a Full Stack Developer that provides value by building web applications with current technologies.
 
-👨‍💻&nbsp;&nbsp; Check out my [Portfolio](https://gregrodriguezjr.github.io/portfolio_v3/)
+👨‍💻&nbsp;&nbsp; Check out my [Portfolio](https://gregrodriguez.vercel.app)
 
 📫&nbsp;&nbsp; How to reach me **greg.rodriguez@outlook.com**
 
