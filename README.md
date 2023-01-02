@@ -4,12 +4,12 @@
 💻&nbsp;&nbsp; Full Stack Developer excited about using current technologies to create solutions.
 </p>
 <p align="center">
-  👨‍💻&nbsp;&nbsp; Check out my <a href="https://gregrodriguez.vercel.app" target="blank">Portfolio</a>
+  👨‍💻&nbsp;&nbsp; Check out my <a href="https://gregrodriguez.vercel.app" target="_blank">Portfolio</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/greg-rodriguez-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="greg-r0driguez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/greg-rodriguez-jr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="greg-r0driguez" height="30" width="40" /></a>
 </p>
 <p align="center">
 📫&nbsp;&nbsp;<a href="mailto:greg.rodriguez@outlook.com">Greg.Rodriguez@Outlook.com</a>
