@@ -3,7 +3,9 @@
 <p align="center">
   👨‍💻&nbsp;&nbsp; Check out my portfolio <a href="https://www.gregrodriguez.dev/" target="_blank">GregRodriguez.dev</a>
 </p>
-
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gregrodriguezjr&theme=tokyonight_duo&hide_border=true"/></a>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/greg-rodriguez-jr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="greg-r0driguez" height="30" width="40" /></a>
